@@ -57,5 +57,5 @@ and choose xterm. The password is `soulseek`
 
 ```
 sudo apt-get update
-sudo apt-get chrome
+sudo apt-get install chrome
 ```
